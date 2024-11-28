@@ -1,8 +1,37 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Refokus clone
 
-Currently, two official plugins are available:
+A refokus clone created using react js, tailwind css, gsap, and framer motion.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Use desktop site for best experience
+
+warning: this is not a fully responsive websit and created to practise the animations and ui design.
+
+
+## Authors
+
+- [@atul](https://github.com/Atul-barnwal)
+
+
+## Deployment
+
+To deploy this project run
+
+
+```
+npm install
+npm run dev
+
+```
+
+
+## Demo
+
+https://refokus-gsap.netlify.app/
+## Features
+
+- animations
+- Live previews
+- Fullscreen mode
+
+
