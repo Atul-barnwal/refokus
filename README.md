@@ -5,7 +5,7 @@ A refokus clone created using react js, tailwind css, gsap, and framer motion.
 
 Use desktop site for best experience
 
-warning: this is not a fully responsive websit and created to practise the animations and ui design.
+warning: this is not a fully responsive website and created to practise the animations and ui design.
 
 
 ## Authors
